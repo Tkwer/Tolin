@@ -1,1 +1,1 @@
-# Tolin STM32f401ccu6核心板工程
+# Tolin STM32f401CCU6核心板工程
